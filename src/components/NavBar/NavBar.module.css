@@ -15,7 +15,7 @@
 } */
 
 .nav {
-  border: 1px solid var(--text-primary);
+  border: 1px solid #cdcdcd;
   border-radius: 50px;
   display: flex;
   align-items: center;
